@@ -1,8 +1,7 @@
 # Smart India Hackathon 2026 
-## Internal Hackathon @ Amrita Vishwa Vidyapeetham, Coimbatore Campus
-### Organized by Institution's Innovation Council (IIC)
+#### Internal Hackathon @ Amrita Vishwa Vidyapeetham, Coimbatore Campus - Organized by Institution's Innovation Council (IIC)
 
-### Team Details
+## SIH26-A0H-TXXX - Team Details
 🏆 **Team Name:** Team Innovators <br/>
 👨‍🏫 **Faculty Mentor:** Dr./Mr. Mentor Name <br/>
 💡 **Problem Statement:** SIH Problem Statement Number - Title
