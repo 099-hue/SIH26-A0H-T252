@@ -6,7 +6,7 @@
 </p>
 
 ## SIH26-A0H-TXXX - Team Details
-### **Team Name:** Team Innovators <br/>
+### **Team Name:** <<Insert Your Team Name>> <br/>
 
 ### Problem Statement(s)
 
