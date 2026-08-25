@@ -40,7 +40,7 @@ The presentation should be the **final version presented during the Internal Hac
 
 ### 1.2 Student Declaration
 
-Upload the completed **Student Declaration Format** provided by the SIH Internal Hackathon coordination team.
+Upload the completed **Student Declaration Format** provided by the SIH Internal Hackathon Organizing team. [Click Here](https://github.com/amrita-hackathon/SIH-2026-Internal-Hackathon-Template/tree/main/template) to download.
 
 Recommended filename:
 
@@ -48,4 +48,21 @@ Recommended filename:
 SIH-A0H-TXXX_Student_Declaration.pdf
 ```
 
-If the declaration format is provided as a Word document and the organizers specifically require the editable version, upload the required format accordingly.
+```text
+SIH-A0H-TXXX_Student_Declaration.docx
+```
+
+Please upload the signed version in pdf format and the editable version in word form (.docx).
+
+### 1.3 Participants Guidelines
+
+Upload the Signed **SIH 2026 Participants Guidelines** provided by the SIH Internal Hackathon coordination team. Refer the Onboarding Email.
+
+Recommended filename:
+
+```text
+SIH-A0H-TXXX_Student_Declaration.pdf
+```
+
+Please upload the signed version in pdf format.
+
