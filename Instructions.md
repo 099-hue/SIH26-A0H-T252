@@ -16,8 +16,6 @@ Each **Team Leader** is responsible for creating and maintaining the team's repo
 
 Do **not** create a new repository from scratch. The repository must be created by **forking the official repository**.
 
----
-
 ## 3. Step 2 – Rename the Repository
 
 After successfully forking the repository:
@@ -26,6 +24,7 @@ After successfully forking the repository:
 2. Go to **Settings → General**.
 3. Locate the **Repository name** field.
 4. Rename the repository using the **Team Number assigned to your team**.
+5. Go to **Settings → Collaborators and teams → Add People**. Provide collaborator access to "_SIH-AMRITA-CBE_" 
 
 > **Do not use your team name, problem statement title, college name, or Team Leader's name as the repository name.**
 
