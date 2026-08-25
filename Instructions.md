@@ -23,12 +23,12 @@ After successfully forking the repository:
 1. Open your forked repository.
 2. Go to **Settings → General**.
 3. Locate the **Repository name** field.
-4. Rename the repository using the **Team Number assigned to your team**.
+4. Rename the repository using the **Team Number assigned to your team**. (Find your Team Number from [here]())
 5. Go to **Settings → Collaborators and teams → Add People**. Provide collaborator access to "_SIH-AMRITA-CBE_" 
 
 > **Do not use your team name, problem statement title, college name, or Team Leader's name as the repository name.**
 
-The repository name must exactly match the **Team Number provided in the official team list**.
+The repository name must exactly match the **Team Number provided in the [official team list]()**.
 
 ## 4. Step 3 – Verify Your Team Number
 
@@ -100,7 +100,7 @@ Provide:
 Example:
 
 ```text
-Problem Statement ID : SIHXXXX
+Problem Statement ID : SIH26YYY  
 Problem Statement    : <Problem Statement Title>
 Theme                : <Theme>
 Organization         : <Ministry / Organization>
@@ -128,13 +128,13 @@ Upload the final presentation prepared by your team.
 Recommended filename:
 
 ```text
-TEAM-XX_Presentation.pptx
+SIH-A0H-TXXX-SIH26YYY_Presentation.pptx
 ```
 
 or
 
 ```text
-TEAM-XX_Presentation.pdf
+SIH-A0H-TXXX-SIH26YYY_Presentation.pptx
 ```
 
 The presentation should be the **final version presented during the Internal Hackathon**.
@@ -147,7 +147,7 @@ Upload the completed **Student Declaration Format** provided by the SIH Internal
 Recommended filename:
 
 ```text
-TEAM-XX_Student_Declaration.pdf
+SIH-A0H-TXXX_Student_Declaration.pdf
 ```
 
 If the declaration format is provided as a Word document and the organizers specifically require the editable version, upload the required format accordingly.
@@ -207,9 +207,10 @@ Before submitting your repository link, the Team Leader must verify all the foll
 The repository name **must be the assigned Team Number**.
 
 ```text
-Correct   : TEAM-07
-Incorrect : Team7
-Incorrect : SIH-Team-07
+Correct   : SIH-A0H-T123
+Incorrect : SIH-AOH-T123
+Incorrect : A0H-T123
+Incorrect : T123
 Incorrect : SmartWasteManagement
 Incorrect : Team_Ramaguru
 ```
@@ -239,10 +240,10 @@ Once the repository has been completely updated and verified, submit the **GitHu
 ### Repository URL Format
 
 ```text
-https://github.com/<your-github-username>/TEAM-XX
+https://github.com/<your-github-username>/SIH-A0H-TXXX
 ```
 
-Replace `TEAM-XX` with your actual assigned Team Number.
+Replace `SIH-A0H-TXXX` with your actual assigned Team Number.
 
 ---
 
