@@ -61,7 +61,7 @@ Upload the Signed **SIH 2026 Participants Guidelines** provided by the SIH Inter
 Recommended filename:
 
 ```text
-SIH-A0H-TXXX_Student_Declaration.pdf
+SIH-A0H-TXXX_Team_Declaration_Internal.pdf
 ```
 
 Please upload the signed version in pdf format.
