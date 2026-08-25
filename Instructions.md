@@ -63,14 +63,14 @@ The following details must be provided:
 
 For **every team member**, provide:
 
-| S. No. | Name        | Roll Number | Gender | Department / Programme | Email ID |
-| -----: | ----------- | ----------- | ------ | ---------------------- | -------- |
-|      1 | Team Leader |             |        |                        |          |
-|      2 | Member 2    |             |        |                        |          |
-|      3 | Member 3    |             |        |                        |          |
-|      4 | Member 4    |             |        |                        |          |
-|      5 | Member 5    |             |        |                        |          |
-|      6 | Member 6    |             |        |                        |          |
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
+|:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
+|   Team Leader   |                         |                        |                 |                                 |  
+|    Member 2     |                         |                        |                 |                                 |  
+|    Member 3     |                         |                        |                 |                                 |  
+|    Member 4     |                         |                        |                 |                                 |   
+|    Member 5     |                         |                        |                 |                                 |  
+|    Member 6     |                         |                        |     Female      |                                 |   
 
 > Update the table according to the actual number of members in your team.
 
@@ -78,9 +78,10 @@ For **every team member**, provide:
 
 Provide the details of the faculty mentor assigned to your team.
 
-| Mentor Name | Designation | Department | Official Email ID |
-| ----------- | ----------- | ---------- | ----------------- |
-|             |             |            |                   |
+|     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
+|:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
+| Academic       |                     |                       |                         |                          |
+| Industry       |                     |                       |                         |                          |
 
 Ensure that the mentor details are accurate and match the information provided by the SIH coordination team.
 
