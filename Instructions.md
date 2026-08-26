@@ -190,15 +190,13 @@ Before submitting your repository link, the Team Leader must verify all the foll
 * [ ] Team member department/programme details are correct.
 * [ ] Team member email IDs are correct.
 * [ ] Mentor details are provided.
-* [ ] `share/` folder is present.
 * [ ] Final presentation is uploaded in the `share/` folder.
 * [ ] Student Declaration is uploaded in the `share/` folder.
+* [ ] Team Declaration of participants guidelines is uploaded in the `share/` folder.
 * [ ] No unnecessary files have been uploaded.
 * [ ] All changes have been committed and pushed.
 * [ ] Repository is accessible to the SIH coordination/judging team.
 * [ ] Repository link has been submitted through the prescribed submission form/link.
-
----
 
 # 11. Important Rules
 
@@ -207,7 +205,7 @@ Before submitting your repository link, the Team Leader must verify all the foll
 The repository name **must be the assigned Team Number**.
 
 ```text
-Correct   : SIH-A0H-T123
+Correct   : SIH26-A0H-T123
 Incorrect : SIH-AOH-T123
 Incorrect : A0H-T123
 Incorrect : T123
@@ -231,8 +229,6 @@ All submitted information must exactly match the official SIH Internal Hackathon
 
 The Team Leader is responsible for ensuring that the repository is complete, correctly structured, and accessible before the submission deadline.
 
----
-
 # 12. Submission
 
 Once the repository has been completely updated and verified, submit the **GitHub repository URL** through the official submission link provided by the SIH Internal Hackathon coordination team.
@@ -240,12 +236,10 @@ Once the repository has been completely updated and verified, submit the **GitHu
 ### Repository URL Format
 
 ```text
-https://github.com/<your-github-username>/SIH-A0H-TXXX
+https://github.com/<your-github-username>/SIH26-A0H-TXXX
 ```
 
 Replace `SIH-A0H-TXXX` with your actual assigned Team Number.
-
----
 
 ## 13. Responsibility of the Team Leader
 
