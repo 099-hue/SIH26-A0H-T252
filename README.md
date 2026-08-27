@@ -5,28 +5,10 @@
   <img src="https://raw.githubusercontent.com/AVV-IIC/Smart-India-Hackathon-2025/refs/heads/main/Assets/images/header.png" width=880 />
 </p>
 
-## SIH26-A0H-TXXX - Team Details
-### **Team Name:** <<Insert Your Team Name>> <br/>
-
-### Problem Statement(s)
-
-#### PS#1
-
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Problem Statement Description:** (if required)
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
-
-#### PS#2
-
-* **Problem Statement ID:**
-* **Problem Statement Title:**
-* **Problem Statement Description:** (if required)
-* **Theme / Category:**
-* **Ministry / Organization:**, wherever applicable
-
-### Team Members
+## SIH26-A0H-TXXX
+### Team Details
+#### **Team Name** <<Insert Your Team Name>> <br/>
+#### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
 |   Team Leader   |                         |                        |                 |                                 |  
@@ -36,11 +18,27 @@
 |    Member 5     |                         |                        |                 |                                 |  
 |    Member 6     |                         |                        |     Female      |                                 |   
 
-### Mentor Details
+#### Mentor Details
 
 |     Type       |       Mentor Name   |       Designation     |          Department     |       Official Email ID  |
 |:--------------:|:--------------------|:---------------------:|:-----------------------:|:------------------------ |
 | Academic       |                     |                       |                         |                          |
 | Industry       |                     |                       |                         |                          |
 
+-----
 
+### Problem Statement(s)
+
+#### PS#1
+
+* **Problem Statement ID:**
+* **Problem Statement Title:**
+* **Theme / Category:**
+* **Ministry / Organization:**, wherever applicable
+
+#### PS#2
+
+* **Problem Statement ID:**
+* **Problem Statement Title:**
+* **Theme / Category:**
+* **Ministry / Organization:**, wherever applicable
