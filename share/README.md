@@ -2,7 +2,7 @@
 #### Internal Hackathon @ Amrita Vishwa Vidyapeetham, Coimbatore Campus - Organized by Institution's Innovation Council (IIC)
 
 <p align="Center">
-  <img src="https://raw.githubusercontent.com/AVV-IIC/Smart-India-Hackathon-2025/refs/heads/main/Assets/images/header.png" width=880 />
+  <img src="../assets/images/header.png" width=880 />
 </p>
 
 ## Instructions
@@ -26,13 +26,13 @@ Upload the final presentation prepared by your team.
 Recommended filename:
 
 ```text
-SIH-A0H-TXXX-SIH26YYY_Presentation.pptx
+SIH26-A0H-TXXX-SIH26YYY_Presentation.pptx
 ```
 
 or
 
 ```text
-SIH-A0H-TXXX-SIH26YYY_Presentation.pdf
+SIH26-A0H-TXXX-SIH26YYY_Presentation.pdf
 ```
 
 The presentation should be the **final version presented during the Internal Hackathon**.
@@ -45,11 +45,11 @@ Upload the completed **Student Declaration Format** provided by the SIH Internal
 Recommended filename:
 
 ```text
-SIH-A0H-TXXX_Student_Declaration.pdf
+SIH26-A0H-TXXX_Student_Declaration.pdf
 ```
 
 ```text
-SIH-A0H-TXXX_Student_Declaration.docx
+SIH26-A0H-TXXX_Student_Declaration.docx
 ```
 
 Please upload the signed version in pdf format and the editable version in word form (.docx).
@@ -61,7 +61,7 @@ Upload the Signed **SIH 2026 Participants Guidelines** provided by the SIH Inter
 Recommended filename:
 
 ```text
-SIH-A0H-TXXX_Team_Declaration_Internal.pdf
+SIH26-A0H-TXXX_Team_Declaration_Internal.pdf
 ```
 
 Please upload the signed version in pdf format.
