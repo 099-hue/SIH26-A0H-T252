@@ -1,7 +1,7 @@
 # SIH 2026 Internal Hackathon – Team Repository Instructions
 
 <p align="Center">
-  <img src="assets/images/header.png" width=880 />
+  <img src="assets/images/header.png" width=921 />
 </p>
 
 ## 1. Purpose
