@@ -1,5 +1,9 @@
 # SIH 2026 Internal Hackathon – Team Repository Instructions
 
+<p align="Center">
+  <img src="assets/images/header.png" width=880 />
+</p>
+
 ## 1. Purpose
 
 This repository is the **official submission repository template** for the Smart India Hackathon (SIH) 2026 Internal Hackathon.
@@ -13,6 +17,7 @@ Each **Team Leader** is responsible for creating and maintaining the team's repo
 1. Click **Fork**.
 2. Select your GitHub account as the destination.
 3. Create the forked repository under your GitHub account.
+4. Change your repository visibility to Private (incase if you are planning to add more technical details of your projects)
 
 Do **not** create a new repository from scratch. The repository must be created by **forking the official repository**.
 
@@ -23,12 +28,12 @@ After successfully forking the repository:
 1. Open your forked repository.
 2. Go to **Settings → General**.
 3. Locate the **Repository name** field.
-4. Rename the repository using the **Team Number assigned to your team**. (Find your Team Number from [here]())
+4. Rename the repository using the **Team Number assigned to your team**. (Find your Team Number from [here](https://avv-iic.github.io/Smart-India-Hackathon-2026/teams))
 5. Go to **Settings → Collaborators and teams → Add People**. Provide collaborator access to "_SIH-AMRITA-CBE_" 
 
 > **Do not use your team name, problem statement title, college name, or Team Leader's name as the repository name.**
 
-The repository name must exactly match the **Team Number provided in the [official team list]()**.
+The repository name must exactly match the **Team Number provided in the [official team list](https://avv-iic.github.io/Smart-India-Hackathon-2026/teams)**.
 
 ## 4. Step 3 – Verify Your Team Number
 
@@ -128,13 +133,13 @@ Upload the final presentation prepared by your team.
 Recommended filename:
 
 ```text
-SIH-A0H-TXXX-SIH26YYY_Presentation.pptx
+SIH26-A0H-TXXX-SIH26YYY_Presentation.pptx
 ```
 
 or
 
 ```text
-SIH-A0H-TXXX-SIH26YYY_Presentation.pptx
+SIH26-A0H-TXXX-SIH26YYY_Presentation.pptx
 ```
 
 The presentation should be the **final version presented during the Internal Hackathon**.
@@ -142,15 +147,31 @@ The presentation should be the **final version presented during the Internal Hac
 
 ### 8.2 Student Declaration
 
-Upload the completed **Student Declaration Format** provided by the SIH Internal Hackathon coordination team.
+Upload the completed **Student Declaration Format** provided by the SIH Internal Hackathon Organizing team. [Click Here](https://github.com/amrita-hackathon/SIH-2026-Internal-Hackathon-Template/tree/main/template) to download.
 
 Recommended filename:
 
 ```text
-SIH-A0H-TXXX_Student_Declaration.pdf
+SIH26-A0H-TXXX_Student_Declaration.pdf
 ```
 
-If the declaration format is provided as a Word document and the organizers specifically require the editable version, upload the required format accordingly.
+```text
+SIH26-A0H-TXXX_Student_Declaration.docx
+```
+
+Please upload the signed version in pdf format and the editable version in word form (.docx).
+
+### 8.3 Participants Guidelines
+
+Upload the Signed **SIH 2026 Participants Guidelines** provided by the SIH Internal Hackathon coordination team. Refer the Onboarding Email.
+
+Recommended filename:
+
+```text
+SIH26-A0H-TXXX_Team_Declaration_Internal.pdf
+```
+
+Please upload the signed version in pdf format.
 
 
 # 9. Step 7 – Commit and Push Changes
